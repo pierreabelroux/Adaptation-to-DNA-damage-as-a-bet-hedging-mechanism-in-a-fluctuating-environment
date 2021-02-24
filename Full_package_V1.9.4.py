@@ -9,7 +9,7 @@
 """
 
 __author__ = "Pierre Roux"
-__copyright__ = "Copyright 2007, The Cogent Project"
+__copyright__ = "Copyright 2021"
 __credits__ = ["Pierre Roux", "Delphine Salort", "Zhou Xu"]
 __license__ = "GNU General public license v3.0"
 __version__ = "2.9.3"
